@@ -10,7 +10,7 @@ clear; % clear all variables from workspace
 ground = groundwater_sim(80,250,0.022);
 
 % Visualize the ground
-spy(ground)
+%spy(ground)
 %imagesc(ground)
 
 %%file groundwater_sim.m
